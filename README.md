@@ -1,2 +1,10 @@
-# https-github.com-yourusername-web-scraping-real-python
-The goal of this project is to scrape the titles and links of the top articles from the Python section of the Real Python website.
+# Web Scraping Real Python
+
+This project demonstrates a simple web scraping script using Python and BeautifulSoup to extract information from the Real Python website.
+
+## Usage
+
+1. Install dependencies:
+
+```bash
+pip install -r requirements.txt
